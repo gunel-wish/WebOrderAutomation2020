@@ -14,6 +14,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
 import java.io.IOException;
+import static org.testng.Assert.*;
 
 public class AbstractBaseTest {
 
